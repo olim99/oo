@@ -1,8 +1,7 @@
 {
-  "name": "my-react-app",
-  "version": "0.1.0",
-  "private": true,
-  "homepage": "https://olim99.github.io/оо",
+  "name": "aal",
+  "version": "1.0.0",
+  "homepage": "https://olim99.github.io/aal",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
