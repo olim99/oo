@@ -2,7 +2,7 @@
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://olim99.github.io/aa",
+  "homepage": "https://olim99.github.io/оо",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -15,8 +15,11 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "vite": "^4.0.0",
     "@vitejs/plugin-react": "^3.0.0",
-    "gh-pages": "^6.0.0"
+    "autoprefixer": "^10.4.21",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.7",
+    "vite": "^4.0.0"
   }
 }
